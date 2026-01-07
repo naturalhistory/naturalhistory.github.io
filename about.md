@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I'm Dr. Aaratrik Pal, a naturalist, a photographer, and a taxonomist, based in India. I've completed my PhD from [University of North Bengal](https://en.wikipedia.org/wiki/University_of_North_Bengal), in Botany. My PhD thesis dealt with the diversity, nomenclature, palynology, systematics, and taxonomy of Linderniacee from the Eastern Himalaya, India.
+I'm Dr. Aaratrik Pal, a naturalist, a photographer, and a taxonomist, based in India. I completed my PhD in Botany, from [University of North Bengal](https://en.wikipedia.org/wiki/University_of_North_Bengal). My PhD thesis dealt with the diversity, nomenclature, palynology, systematics, and taxonomy of Linderniacee from the Eastern Himalaya, India.
 
 Moreover, I'm broadly interested in the biodiversity of butterflies, damselflies, dragonflies and plants, as well as their documentations, nomenclature, systematics, and taxonomy.
 
