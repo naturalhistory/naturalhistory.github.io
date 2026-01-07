@@ -8,5 +8,3 @@
     <p>Welcome to my GitHub Pages site!</p>
   </body>
 </html>
-
-
