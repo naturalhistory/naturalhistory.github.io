@@ -1,23 +1,35 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
-  </head>
-  <body>
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">
+        <a href="{{ '/' | relative_url }}">{{ site.title | default: "My Site" }}</a>
+      </h1>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about' | relative_url }}">About</a>
+        <a href="{{ '/contact' | relative_url }}">Contact</a>
+      </nav>
+    </div>
+  </header>
 
-    <table>
-      <tr>
-        <td><a href="{{ '/' | relative_url }}">Home</a></td>
-        <td><a href="{{ '/about' | relative_url }}">About</a></td>
-      </tr>
-    </table>
-    <hr>
+  <main class="container">
+    {{ content }}
+  </main>
 
-    <main>
-      {{ content }}
-    </main>
-
-  </body>
+  <footer class="site-footer">
+    <div class="container">
+      <small>&copy; {{ site.time | date: "%Y" }} {{ site.author.name | default: site.title }}</small>
+    </div>
+  </footer>
+</body>
 </html>
