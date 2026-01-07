@@ -6,11 +6,11 @@ permalink: /contact/
 
 # Contact
 
-Dr. Aaratrik Pal
-_Research Associate,
-Department of Botany,
-University of North Bengal
-Siliguri, Darjeeling - 734 013,
+Dr. Aaratrik Pal<br/>
+_Research Associate,<br/>
+Department of Botany,<br/>
+University of North Bengal<br/>
+Siliguri, Darjeeling - 734 013,<br/>
 West Bengal, India_
 
 <!-- * **Email:** [Your Email Here] -->
