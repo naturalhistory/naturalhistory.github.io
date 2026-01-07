@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /
+permalink: /about/
 ---
 
 I'm Dr. Aaratrik Pal, a naturalist, a photographer, and a taxonomist, based in India. I completed my PhD in Botany, from [University of North Bengal](https://en.wikipedia.org/wiki/University_of_North_Bengal). My PhD thesis dealt with the diversity, nomenclature, palynology, systematics, and taxonomy of Linderniacee from the Eastern Himalaya, India.
