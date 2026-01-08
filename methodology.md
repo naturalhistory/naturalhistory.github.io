@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Methodology
+title: Nomenclature Rules
+sidebar_link: true   <-- Add this line
 ---
-# Methodology
+
 
