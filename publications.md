@@ -1,4 +1,4 @@
----
+u---
 layout: default
 title: Publications
 permalink: /publications/
@@ -19,7 +19,7 @@ permalink: /publications/
   - **Pal, A.**, & Chowdhury, M. (2024). (3023) Proposal to conserve the name _Mimulus violaceus_ (_Torenia violacea_) with a conserved type against _T. edentula_ (Linderniaceae) and associated lectotypification of _T. peduncularis_ and _T. exappendiculata_. **Taxon**, 73(2), 650–651. <http://dx.doi.org/10.1002/tax.13162>  <br>
 * **2022**
   <!--*- Mallick, D., Dasgupta, S., Paul, P., Mondal, S., Pal, A., & Chowdhury, M., (2022). Tree Diversity in Tropical Moist Deciduous Forests of Gorumara National Park, India. Indian Forester, 148(11): 1079-1093 <br>-->
-  - Pal A. & Chowdhury M. (2022). _Torenia hookeri_, a new combination in Asian Linderniaceae and first record of _T. godefroyi_ in the Himalayan hotspot. **Phytotaxa**, 549 (2), 230–234. <http://dx.doi.org/10.11646/phytotaxa.549.2.8> <br>
+  - **Pal A.** & Chowdhury M. (2022). _Torenia hookeri_, a new combination in Asian Linderniaceae and first record of _T. godefroyi_ in the Himalayan hotspot. **Phytotaxa**, 549 (2), 230–234. <http://dx.doi.org/10.11646/phytotaxa.549.2.8> <br>
   <!--- Mallick, D., Dasgupta, S., Paul, P., Mondal, S., Pal, A., & Chowdhury, M. (2022). Diversity of Arboreal Spermatophytes in three MPCAs of India: With Special Reference to West Bengal. Indian Forester, 147(12), 1145-1154. <br>-->
 * **2021**
   - **Pal, A.**, Sardesai M. M. & Chowdhury M. (2021). Transfer of Torenia gracilis Benth. to Bonnaya as Bonnaya gracilis sp. nov. (Linderniaceae). Nordic Journal of Botany, 39(8): e03292. <https://dx.doi.org/10.1111/njb.03292> <br>
