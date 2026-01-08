@@ -1,3 +1,12 @@
 title: Natural History by Dr. Aaratrik Pal
 description: About natural history, nomenclature and taxonomy
-author: Dr. Aaratrik Pal
+url: "" 
+baseurl: ""
+
+author:
+  name: Dr. Aaratrik Pal
+  email: 
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
