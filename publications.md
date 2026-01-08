@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Publications
 permalink: /publications/
 ---
 
@@ -31,3 +31,17 @@ permalink: /publications/
   - Biswas G. K., Neogi A. K. & Pal A. (2017). First record of Epophthalmia vittata Burmeister, 1839 (Insecta, Odonata, Anisoptera) from Dhaka, Bangladesh. Check List, 13(6): 845–847.<br>
   - Pal A. (2017). Dragonflies and damselflies of University of North Bengal campus, West Bengal, India with new distribution record of Agriocnemis kalinga Nair & Subramanian, 2014. Journal of Threatened Taxa, 9(12): 11067–11073.<br>
 
+<style>
+  /* Level 1: Year (No bullet, flush left) */
+  main ul {
+    list-style-type: none; /* Removes the round dot */
+    padding-left: 0;       /* Removes indentation so the year aligns left */
+  }
+
+  /* Level 2: Papers (Square bullet, indented) */
+  main ul ul {
+    list-style-type: square;
+    padding-left: 1.5rem;  /* Indents the papers */
+    margin-top: 0.25rem;
+  }
+</style>
