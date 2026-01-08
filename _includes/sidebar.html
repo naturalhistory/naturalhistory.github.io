@@ -1,8 +1,14 @@
 <div class="widget">
-  <h3>Navigation</h3>
+  <h3>Quick Links</h3>
   <ul>
-    <li><a href="{{ '/methodology/' | relative_url }}">Methodology</a></li>
-    <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-    <li><a href="{{ '/history/' | relative_url }}">History</a></li>
+    {% for page in site.pages %}
+      
+      {% if page.sidebar_link == true %}
+        <li>
+          <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+        </li>
+      {% endif %}
+
+    {% endfor %}
   </ul>
 </div>
