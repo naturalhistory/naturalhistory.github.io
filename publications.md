@@ -8,7 +8,7 @@ permalink: /publications/
 
 * **2026**
   - Pal, A., Chowdhury, R. and Chowdhury, M. (2026). Nomenclatural and Taxonomic Notes on Premna scandens (Lamiaceae), With a New Synonym. Feddes Repertorium, 1–5. <https://doi.org/10.1002/fedr.70058> <br>
-**2025**
+* **2025**
   - Pal, A., & Chowdhury, M. (2025). First report of Torenia concolor (Linderniaceae) from India, and notes on typification of associated names. Turczaninowia, 28(3), 5–13. <https://www.doi.org/10.14258/turczaninowia.28.3.1> <br>
   - Pal, A. (2025). (3093) Proposal to change the conserved type of Hedyotis diffusa, nom. cons. (Oldenlandia diffusa, Scleromitrion diffusum) (Rubiaceae). Taxon, 74, 741–742. <https://doi.org/10.1002/tax.13369> <br>
   - Pal, A., & Chowdhury, M. (2025). Bonnaya multiflora (Linderniaceae), a New Addition to Indian Flora, with “Second-step” Lectotypification. Journal of Japanese Botany, 100(4), 359–361. <https://doi.org/10.51033/jjapbot.ID0280> <br>
