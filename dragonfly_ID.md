@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dragonfly identification
-sidebar_link: true
+sidebar_link: false
 ---
 
 
