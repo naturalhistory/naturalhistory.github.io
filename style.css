@@ -1,28 +1,87 @@
-/* Minimal styling for readability */
-:root{
-  --max-width: 880px;
-  --accent: #0a66c2;
-  --muted: #666;
-  --bg: #FFFEE8;
-  --text: #111;
-  font-size: 16px;
+:root {
+  --max-width: 800px;
+  --bg: #FFFEE8;       /* Cream background */
+  --text: #111;        /* Black text */
+  --nav-color: #0a66c2;/* Blue for Navigation */
+  --link-color: #228B22; /* Forest Green for Body Links */
+  --font-body: system-ui, -apple-system, sans-serif;
 }
 
-*{box-sizing:border-box}
-html,body{height:100%;margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial}
-.container{max-width:var(--max-width);margin:0 auto;padding:1rem}
-.site-header{border-bottom:1px solid #eee;background:#FFFEED}
-.site-title{margin:0;display:inline-block;font-size:1.25rem}
-.site-title a{color:var(--text);text-decoration:none}
-.site-nav{float:right}
-.site-nav a{margin-left:1rem;color:var(--accent);text-decoration:none}
-main{padding:1.25rem 0}
-h2{margin-top:0}
-.site-footer{border-top:1px solid #eee;padding:0.75rem 0;color:var(--muted);font-size:.9rem;text-align:center}
-@media (max-width:540px){
-  .site-nav{display:block;float:none;margin-top:.5rem}
-  .site-nav a{display:inline-block;margin:0 .5rem 0 0}
+/* Basic Setup */
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  line-height: 1.6;
 }
+
+/* Container */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Header & Nav */
+.site-header {
+  padding: 1.5rem 0;
+  background: var(--bg); /* Same as body */
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.site-title a {
+  text-decoration: none;
+  color: var(--text);
+}
+
+.site-nav a {
+  margin-left: 1.5rem;
+  text-decoration: none;
+  color: var(--nav-color); /* Navigation stays Blue */
+  font-weight: 500;
+}
+
+/* Main Content & Green Links */
+main {
+  padding: 2rem 0;
+}
+
+/* This targets ONLY links inside the body text */
 main a {
-  color: #228B22; /* Forest Green */
+  color: var(--link-color); /* Green */
+}
+
+/* Footer */
+.site-footer {
+  text-align: center;
+  padding: 2rem 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* Mobile Layout */
+@media (max-width: 500px) {
+  .header-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .site-nav {
+    margin-top: 1rem;
+  }
+  .site-nav a {
+    margin-left: 0;
+    margin-right: 1rem;
+  }
 }
