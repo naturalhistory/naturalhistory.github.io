@@ -11,7 +11,7 @@ permalink: /publications/
 * **2025**
   - **Pal, A.**, & Chowdhury, M. (2025). First report of _Torenia concolor_ (Linderniaceae) from India, and notes on typification of associated names. __Turczaninowia__, 28(3), 5–13. <https://www.doi.org/10.14258/turczaninowia.28.3.1> <font color="blue">(Open access!)</font> <br>
   - **Pal, A.** (2025). (3093) Proposal to change the conserved type of _Hedyotis diffusa_, nom. cons. (_Oldenlandia diffusa_, _Scleromitrion diffusum_) (Rubiaceae). __Taxon__, 74, 741–742. <https://doi.org/10.1002/tax.13369> <br>
-  - **Pal, A.**, & Chowdhury, M. (2025). Bonnaya multiflora (Linderniaceae), a New Addition to Indian Flora, with “Second-step” Lectotypification. **Journal of Japanese Botany**, 100(4), 359–361. <https://doi.org/10.51033/jjapbot.ID0280> <br>
+  - **Pal, A.**, & Chowdhury, M. (2025). Bonnaya multiflora (Linderniaceae), a New Addition to Indian Flora, with “Second-step” Lectotypification. **Journal of Japanese Botany**, 100(4), 359–361. <https://doi.org/10.51033/jjapbot.ID0280> <font color="blue">(Open access!)</font> <br>
   - **Pal, A.**, & Chowdhury, M. (2025). Floral, fruiting, and staminal morphology of Vandellia L. (Lamiales, Linderniaceae) from India, with three new combinations. **Phytotaxa**, 693(2), 173-179. <http://dx.doi.org/10.11646/phytotaxa.693.2.6> <br>
   - **Pal, A.** (2025). Rediscovery of _Paragomphus lindgreni_ (Fraser, 1923) (Odonata: Gomphidae) from India, a century after its description. **Notulae odonatologicae**, 10(5), 184–189. <https://doi.org/10.60024/nodo.v10i5.a4> <br>
 * **2024**
@@ -29,7 +29,7 @@ permalink: /publications/
 * **2017**
   - Payra A., Das G. N., **Pal, A.**, Patra D., & Tiple A. D. (2017). New locality records of a rare Dragonfly _Gynacantha khasiaca_ Maclachlan, 1896 (Odonata Aeshnidae) from India. **Biodiversity Journal**, 8(1): 27–32.<br>
   - Biswas G. K., Neogi A. K. & **Pal, A.** (2017). First record of _Epophthalmia vittata_ Burmeister, 1839 (Insecta, Odonata, Anisoptera) from Dhaka, Bangladesh. **Check List**, 13(6): 845–847.<br>
-  - **Pal, A.** (2017). Dragonflies and damselflies of University of North Bengal campus, West Bengal, India with new distribution record of _Agriocnemis kalinga_ Nair & Subramanian, 2014. **Journal of Threatened Taxa**, 9(12): 11067–11073.<br>
+  - **Pal, A.** (2017). Dragonflies and damselflies of University of North Bengal campus, West Bengal, India with new distribution record of _Agriocnemis kalinga_ Nair & Subramanian, 2014. **Journal of Threatened Taxa**, 9(12): 11067–11073. <font color="blue">(Open access!)</font> <br>
 
 <style>
   /* Level 1: Year (No bullet, flush left) */
