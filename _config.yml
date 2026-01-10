@@ -3,9 +3,8 @@ description: About natural history, nomenclature and taxonomy
 url: "" 
 baseurl: ""
 
-author:
-  name: Dr. Aaratrik Pal
-  email: 
+author: Dr. Aaratrik Pal
+email: 
 
 # Build settings
 markdown: kramdown
