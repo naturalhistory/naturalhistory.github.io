@@ -29,7 +29,7 @@ body {
   padding: 3rem 0; /* Increased padding to show more of the image */
   
   /* 1. The Image Settings */
-  background-image: url('/assets/IMG_4516.jpg');
+  background-image: url('/assets/header.jpg');
   background-size: cover;    /* Ensures image covers the whole area */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat;
