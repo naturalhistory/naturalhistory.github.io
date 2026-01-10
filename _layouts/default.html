@@ -1,39 +1,36 @@
----
----
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 </head>
 <body>
-    <header class="site-header">
-    <div class="container">
+
+  <header class="site-header">
+    <div class="container header-row">
       <h1 class="site-title">
         <a href="{{ '/' | relative_url }}">{{ site.title | default: "My Site" }}</a>
       </h1>
-      <nav class="site-nav" aria-label="Main navigation">
+
+      <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/about' | relative_url }}">About</a>
         <a href="{{ '/publications' | relative_url }}">Publications</a>
-        <a href="{{ '/contact' | relative_url }}">Contact</a>
-       
-      </nav>
+        <a href="{{ '/contact' | relative_url }}">Contact</a> </nav>
     </div>
   </header>
 
-  {% include sidebar.html %}
-  
   <main class="container">
     {{ content }}
   </main>
 
   <footer class="site-footer">
     <div class="container">
-      <small>&copy; {{ site.time | date: "%Y" }} {{ site.author.name | default: site.title }}</small>
+      <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</small>
     </div>
   </footer>
+
 </body>
 </html>
