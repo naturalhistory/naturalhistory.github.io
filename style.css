@@ -24,22 +24,13 @@ body {
   padding: 0 1rem;
 }
 
-/* Header & Nav */
 .site-header {
-  padding: 3rem 0; /* Increased padding to show more of the image */
-  
-  /* 1. The Image Settings */
-  background-image: url('/assets/header.jpg');
-  background-size: cover;    /* Ensures image covers the whole area */
-  background-position: center; /* Centers the image */
-  background-repeat: no-repeat;
-  
-  /* 2. Optional: Add a dark overlay so white text pops (optional) */
-  /* box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.3); */
-  
+  padding: 4rem 0; /* Keep this to give it height */
+  background-size: cover;
+  background-position: center;
   border-bottom: 1px solid #bbb;
+  /* DELETE the background-image line from here */
 }
-
 /* IMPORTANT: If your image is dark, switch header text to White */
 /* .site-title a, .site-nav a {
    color: #ffffff; 
