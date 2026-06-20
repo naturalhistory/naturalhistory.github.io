@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #FFFFD9; /* Light background for the entire page */
+    width: 600px;
 }
 
 header {
