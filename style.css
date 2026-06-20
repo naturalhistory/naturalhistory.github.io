@@ -1,0 +1,43 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFD9; /* Light background for the entire page */
+}
+
+header {
+    background-color: #BBF451; /* Vibrant purple header */
+    color: #000000;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    margin: 10px;
+    background-color: #ffffff; /* White background for the main content */
+    padding: 20px;
+    *border-radius: 8px; /* Rounded corners for the main content area */
+    *box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+footer {
+text-align: center;
+padding: 1px;
+color: black;
+}
