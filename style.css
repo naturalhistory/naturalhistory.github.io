@@ -1,16 +1,17 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 0;
+    margin: 5px;
     padding: 0;
-    background-color: #FFFFD9; /* Light background for the entire page */
-    width: 600px;
+    text-align: justify;
+    background-color: White; /* Light background for the entire page */
+    width: auto;
 }
 
 header {
-    background-color: #BBF451; /* Vibrant purple header */
-    color: #000000;
+    background-color: White; /* Vibrant purple header */
+    color: black;
     text-align: center;
-    padding: 1em 0;
+    padding: 10px 0;
 }
 
 header nav ul {
@@ -20,25 +21,23 @@ header nav ul {
 
 header nav ul li {
     display: inline;
-    margin: 0 15px;
+    margin: 0 10px;
 }
 
 header nav ul li a {
-    color: #000000;
+    color: #0000ff;
     text-decoration: none;
     font-weight: bold;
 }
 
 main {
-    margin: 10px;
-    background-color: #ffffff; /* White background for the main content */
-    padding: 20px;
-    *border-radius: 8px; /* Rounded corners for the main content area */
-    *box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    margin: 0px 0px;
+    background-color: White; /* White background for the main content */
+    padding: 0px 1em;
 }
 
 footer {
 text-align: center;
-padding: 1px;
+padding: 0 0px;
 color: black;
 }
