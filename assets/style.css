@@ -37,10 +37,10 @@ main {
 }
 
 img {
-  border: 1px solid #000000;
+  border: 2px solid #000000;
   border-radius: 0px;
-  padding: 04px;
-  width: 100%;
+  padding: 2px;
+  width: 1080px;
 }
 
 footer {
