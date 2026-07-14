@@ -31,7 +31,7 @@ header nav ul li a {
 }
 
 main {
-    margin: auto;
+    margin: 0 auto;
     background-color: White; /* White background for the main content */
     padding: 0px 1em;
     max-width: 800px;
@@ -45,7 +45,6 @@ img {
   padding: 3px;
   max-width: 100%;
   height: auto;
-  align: center;
 }
 
 footer {
