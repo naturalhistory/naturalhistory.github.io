@@ -3,12 +3,12 @@ body {
     margin: 5px;
     padding: 0;
     text-align: justify;
-    background-color: White; /* Light background for the entire page */
+    background-color: #E2E8F0; /* Light background for the entire page */
     width: auto;
 }
 
 header {
-    background-color: White; /* Vibrant purple header */
+    background-color: #D6DBDF; /* Vibrant purple header */
     color: black;
     text-align: center;
     padding: 10px 0;
@@ -32,7 +32,7 @@ header nav ul li a {
 
 main {
     margin: 0 auto;
-    background-color: White; /* White background for the main content */
+    background-color: #E2E8F0; /* White background for the main content */
     padding: 0px 1em;
     max-width: 800px;
 }
